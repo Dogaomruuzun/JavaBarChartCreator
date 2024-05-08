@@ -1,5 +1,5 @@
 # Bar Chart Creator
-A simple program for creating bar charts. The user enters labels and values for the bars, and the program displays the chart. I also allow the user to fix mistakes by removing the last bar. Admittedly, the user interface is a bit limited.
+A simple program for creating bar charts. The user enters labels and values for the bars, and the program displays the chart. It also allows the user to fix mistakes by removing the last bar. Admittedly, the user interface is a bit limited.
 
  Program needs the following user-interface components:
 
